@@ -2,6 +2,8 @@ import "./App.css";
 import Raylene from "./images/Raylene.png";
 
 function App() {
+	const line = `IF I WROTE A POEM THAT CAPTURED LOVE, I’D WRITE IT ON THE WINGS OF A DOVE, ‘CAUSE THERE’S NOTHING ON EARTH,
+   THAT’S EVER GIVEN BIRTH, WORTHY TO DELIVER THE WORDS ABOVE.`;
 	return (
 		<div className="App">
 			<img src={Raylene} alt="Raylene" />
@@ -149,21 +151,29 @@ function App() {
 				</g>
 			</svg>
 			<main>
-				<p>
-					IF I COULD CAPTURE THE BEAUTY OF A STAR, I’D SEARCH FOR THE MOST PRECIOUS OF THEM ALL, BUT ONCE I FOUND THE
-					VERY BEST, THE HEAVENS WOULD HAVE TO HIDE THE REST, ‘CAUSE YOUR BEAUTY WOULD SHAME THEM ALL BY FAR.
+				<p style={{ fontStyle: "italic" }}>
+					{/* IF I COULD CAPTURE THE BEAUTY OF A STAR, I’D SEARCH FOR THE MOST PRECIOUS OF THEM ALL, BUT ONCE I FOUND THE
+					VERY BEST, THE HEAVENS WOULD HAVE TO HIDE THE REST, ‘CAUSE YOUR BEAUTY WOULD SHAME THEM ALL BY FAR. */}
+					If I could capture the beauty of a star, I’d search for the most precious of them all, but once I found the
+					very best, the heavens would have to hide the rest, ‘cause your beauty would shame them all by far.
 				</p>
-				<p>
-					IF I COULD SEND THE MOST PRECIOUS GIFT, THE WORLD WOULD THINK THAT YOU WERE A MYTH, ‘CAUSE I’D SEND ANGELIC
-					BLESSING, STANDING GUARD WHILE YOU’RE RESTING, SHARING WITH YOU THEIR ETERNAL BLISS.
+				<p style={{ fontStyle: "italic" }}>
+					{/* IF I COULD SEND THE MOST PRECIOUS GIFT, THE WORLD WOULD THINK THAT YOU WERE A MYTH, ‘CAUSE I’D SEND ANGELIC
+					BLESSING, STANDING GUARD WHILE YOU’RE RESTING, SHARING WITH YOU THEIR ETERNAL BLISS. */}
+					If I could send the most precious gift, the world would think that you were a myth, ‘cause I’d send angelic
+					blessing, standing guard while you’re resting, sharing with you their eternal bliss.
 				</p>
-				<p>
-					IF I WERE TO ASK FOR JUST ONE THING MORE, IT WOULD HAVE TO BE THAT THERE WAS A DOOR, THAT ALLOWED US TO SOAR,
-					PAST THIS MORTAL TOUR, AND BE UNITED FOREVER AND EVERMORE.
+				<p style={{ fontStyle: "italic" }}>
+					{/* IF I WERE TO ASK FOR JUST ONE THING MORE, IT WOULD HAVE TO BE THAT THERE WAS A DOOR, THAT ALLOWED US TO SOAR,
+					PAST THIS MORTAL TOUR, AND BE UNITED FOREVER AND EVERMORE. */}
+					If I were to ask for just one thing more, it would have to be that there was a door, that allowed us to soar,
+					past this mortal tour, and be united forever and evermore.
 				</p>
-				<p>
-					IF I WROTE A POEM THAT CAPTURED LOVE, I’D WRITE IT ON THE WINGS OF A DOVE, ‘CAUSE THERE’S NOTHING ON EARTH,
-					THAT’S EVER GIVEN BIRTH, WORTHY TO DELIVER THE WORDS ABOVE.
+				<p style={{ fontStyle: "italic" }}>
+					{/* IF I WROTE A POEM THAT CAPTURED LOVE, I’D WRITE IT ON THE WINGS OF A DOVE, ‘CAUSE THERE’S NOTHING ON EARTH,
+					THAT’S EVER GIVEN BIRTH, WORTHY TO DELIVER THE WORDS ABOVE. */}
+					If I wrote a poem that captured love, I’d write it on the wings of a dove, ‘cause there’s nothing on earth,
+					that’s ever given birth, worthy to deliver the words above.
 				</p>
 				<p style={{ textAlign: "center" }}>-MIchael Jones</p>
 			</main>
