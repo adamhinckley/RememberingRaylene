@@ -1,6 +1,9 @@
 .App {
 	text-align: center;
 	height: 100%;
+	max-width: 800px;
+	border: 1px solid #ab7c94;
+	margin: 0 auto;
 }
 
 p {
