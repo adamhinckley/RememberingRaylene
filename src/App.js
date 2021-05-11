@@ -71,17 +71,14 @@ function App() {
 				</g>
 			</svg>
 			<main>
-				<p>Raylene passed away peacefully at home surrounded by family after a battle with cancer.</p>
+				<p>Raylene passed away peacefully at home surrounded by family after a short trial with cancer.</p>
 				<p>
 					She is survived by her loving husband Michael Jones, siblings Karen Waugh, Donella Stahn, and Glenn Solheim,
 					children Amy Brown (Sonia "So" Brown), Adam Hinckley (Jodi Hinckley), Peter Hinckley (Amber Hinckley), Stephen
 					Hinckley, Paul Hinckley (Bailey Avery), Isaac Hinckley, and Rebecca Morgan (Kyle Morgan), and grandchildren
 					Andrew, Jacob, Anne, Matthew, Flora, Brooks, and Heather.
 				</p>
-				<p>
-					Her family is receiving visitors in a casual outdoor setting. Raylene had an amazing sense of humor and
-					requested a bounce house to be there, so dress accordingly.
-				</p>
+				<p>Her family is receiving visitors in a casual outdoor setting.</p>
 				<p>Time: 3:00-4:30 pm, Saturday May 15th, 2021.</p>
 				<p>
 					Location:{" "}
