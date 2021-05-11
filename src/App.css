@@ -14,7 +14,9 @@ img {
 }
 
 main {
-	margin: 0 12px;
+	margin: 0 auto;
+	max-width: 800px;
+	padding: 0 12px;
 }
 
 .App-logo {
