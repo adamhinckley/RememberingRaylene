@@ -79,8 +79,8 @@ function App() {
 					Andrew, Jacob, Anne, Matthew, Flora, Brooks, and Heather.
 				</p>
 				<p>
-					Her family is receiving visitors in a casual outdoor setting (weather permitting). Raylene had an amazing
-					sense of humor and requested a bounce house to be there, so dress accordingly.
+					Her family is receiving visitors in a casual outdoor setting. Raylene had an amazing sense of humor and
+					requested a bounce house to be there, so dress accordingly.
 				</p>
 				<p>Time: 3:00-4:30 pm, Saturday May 15th, 2021.</p>
 				<p>
