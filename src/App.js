@@ -88,11 +88,22 @@ function App() {
 					<a
 						rel="stylesheet"
 						href="
-https://goo.gl/maps/MkSVbZEbGWnGcuS57"
+                  https://goo.gl/maps/MkSVbZEbGWnGcuS57"
 					>
 						Mt Timpanogos park
 					</a>{" "}
 					Park in Provo Canyon
+				</p>
+				<p>
+					Flowers for the gathering on Saturday can be sent to the Morgan residence at 579 W 920 N, Orem, Utah 84057.
+					Donations can be made in her name to the Huntsman Cancer Foundation{" "}
+					<a
+						rel="stylesheet"
+						href="
+                  https://give.huntsmancancer.org/page/23908/donate/1"
+					>
+						here.
+					</a>
 				</p>
 			</main>
 			<svg
