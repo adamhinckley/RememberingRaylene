@@ -9,9 +9,10 @@ function App() {
      <h2>April 6, 1956 - May 10, 2021</h2>
      <main>
        <p>Raylene passed away peacefully at home surrounded by family.</p>
-       <p>She is survived by her husband Michael, children Amy, Adam, Peter, Stephen, Paul, Isaac, and Rebecca, and grandchildren Andrew, Jacob, Anne, Matthew, Flora, Brooks, and Heather</p>
-       <p>The family is taking visitors outdoors on Saturday May 15 from 3:00-4:30.  Raylene had an amazing sense of humor and requested a bounce house to be there, so dress accordingly.</p>
-       <p>60 E 1600 N St, Orem, UT 84057</p>
+       <p>She is survived by her husband Michael, siblings Karen, Donella, and Glenn, children Amy, Adam, Peter, Stephen, Paul, Isaac, and Rebecca, and grandchildren Andrew, Jacob, Anne, Matthew, Flora, Brooks, and Heather.</p>
+       <p>Family is taking visitors in a casual outdoor setting (weather permitting).  Raylene had an amazing sense of humor and requested a bounce house to be there, so dress accordingly.</p>
+       <p>Time: 3:00-4:30 Saturday May 15th.</p>
+       <p>Location: Stake Center at 60 E 1600 N St, Orem, UT 84057</p>
      </main>
     </div>
   );
