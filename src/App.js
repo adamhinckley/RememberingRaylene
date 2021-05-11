@@ -194,7 +194,7 @@ function App() {
 					If I wrote a poem that captured love, I’d write it on the wings of a dove, ‘cause there’s nothing on earth,
 					that’s ever given birth, worthy to deliver the words above.
 				</p>
-				<p style={{ textAlign: "center" }}>-MIchael Jones</p>
+				<p style={{ textAlign: "center" }}>-Michael Jones</p>
 			</main>
 			{/* <svg
 				version="1.1"
