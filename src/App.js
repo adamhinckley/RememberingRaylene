@@ -2,8 +2,6 @@ import "./App.css";
 import Raylene from "./images/Raylene.png";
 
 function App() {
-	const line = `IF I WROTE A POEM THAT CAPTURED LOVE, I’D WRITE IT ON THE WINGS OF A DOVE, ‘CAUSE THERE’S NOTHING ON EARTH,
-   THAT’S EVER GIVEN BIRTH, WORTHY TO DELIVER THE WORDS ABOVE.`;
 	return (
 		<div className="App">
 			<img src={Raylene} alt="Raylene" />
