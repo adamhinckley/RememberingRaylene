@@ -79,7 +79,7 @@ function App() {
 					and grandchildren Andrew, Jacob, Anne, Matthew, Flora, Brooks, and Heather.
 				</p>
 				<p>Her family is receiving visitors in a casual outdoor setting.</p>
-				<p>Time: 3:00-4:30 pm, Saturday May 15th, 2021.</p>
+				<p>Time: 3:30-5:00 pm, Saturday May 15th, 2021.</p>
 				<p>
 					Location:{" "}
 					<a
