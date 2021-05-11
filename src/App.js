@@ -88,11 +88,11 @@ function App() {
 					<a
 						rel="stylesheet"
 						href="
-                  https://goo.gl/maps/MkSVbZEbGWnGcuS57"
+                  https://goo.gl/maps/39ZZLH6oaEKnfWQy8"
 					>
-						Mt Timpanogos park
+						Canyon View Park
 					</a>{" "}
-					Park in Provo Canyon
+					in Provo Canyon
 				</p>
 				<p>
 					Flowers for the gathering on Saturday can be sent to the Morgan residence at 579 W 920 N, Orem, Utah 84057.
