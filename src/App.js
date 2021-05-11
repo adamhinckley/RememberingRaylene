@@ -83,7 +83,17 @@ function App() {
 					sense of humor and requested a bounce house to be there, so dress accordingly.
 				</p>
 				<p>Time: 3:00-4:30 pm, Saturday May 15th, 2021.</p>
-				<p>Location: Stake Center Pavillion at 60 E 1600 N, Orem, UT 84057</p>
+				<p>
+					Location:{" "}
+					<a
+						rel="stylesheet"
+						href="
+https://goo.gl/maps/MkSVbZEbGWnGcuS57"
+					>
+						Mt Timpanogos park
+					</a>{" "}
+					Park in Provo Canyon
+				</p>
 			</main>
 			<svg
 				version="1.1"
@@ -175,7 +185,7 @@ function App() {
 				</p>
 				<p style={{ textAlign: "center" }}>-MIchael Jones</p>
 			</main>
-			<svg
+			{/* <svg
 				version="1.1"
 				id="Layer_1"
 				xmlns="http://www.w3.org/2000/svg"
@@ -238,7 +248,7 @@ function App() {
 					/>
 				</g>
 			</svg>
-			<p style={{ textAlign: "center" }}>~Sherri's poem here~</p>
+			<p style={{ textAlign: "center" }}>~Sherri's poem here~</p> */}
 		</div>
 	);
 }
