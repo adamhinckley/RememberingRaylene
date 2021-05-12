@@ -76,7 +76,8 @@ function App() {
 					She is survived by her loving husband Michael Jones, siblings Karen Waugh, Donella Stahn, Glenn Solheim, and
 					Matthew Solheim, children Amy Brown (Sonia "So" Brown), Adam Hinckley (Jodi Hinckley), Peter Hinckley (Amber
 					Hinckley), Stephen Hinckley, Paul Hinckley (Bailey Avery), Isaac Hinckley, and Rebecca Morgan (Kyle Morgan),
-					and grandchildren Andrew, Jacob, Anne, Matthew, Flora, Brooks, and Heather.
+					and grandchildren Andrew, Jacob, Anne, Matthew, Flora, Brooks, and Heather. Raylene was preceded in death by
+					her father Raymond Solheim, mother Elaine Miller, and brother Eric Solheim.
 				</p>
 				<p>
 					In celebration of her life, her family is receiving visitors in a casual outdoor setting. Raylene had an
