@@ -78,7 +78,10 @@ function App() {
 					Hinckley), Stephen Hinckley, Paul Hinckley (Bailey Avery), Isaac Hinckley, and Rebecca Morgan (Kyle Morgan),
 					and grandchildren Andrew, Jacob, Anne, Matthew, Flora, Brooks, and Heather.
 				</p>
-				<p>In celebration of her life, her family is receiving visitors in a casual outdoor setting.</p>
+				<p>
+					In celebration of her life, her family is receiving visitors in a casual outdoor setting. Raylene had an
+					amazing sense of humor and requested that a bounce house be at her service. Dress accordingly.
+				</p>
 				<p>Time: 3:30-5:00 pm, Saturday May 15th, 2021.</p>
 				<p>
 					Location:{" "}
@@ -168,28 +171,38 @@ function App() {
 			</svg>
 			<main>
 				<p style={{ fontStyle: "italic" }}>
-					{/* IF I COULD CAPTURE THE BEAUTY OF A STAR, I’D SEARCH FOR THE MOST PRECIOUS OF THEM ALL, BUT ONCE I FOUND THE
-					VERY BEST, THE HEAVENS WOULD HAVE TO HIDE THE REST, ‘CAUSE YOUR BEAUTY WOULD SHAME THEM ALL BY FAR. */}
-					If I could capture the beauty of a star, I’d search for the most precious of them all, but once I found the
-					very best, the heavens would have to hide the rest, ‘cause your beauty would shame them all by far.
+					If I could capture the beauty of a star, I’d search for the most precious of them all,
+					<br />
+					but once I found the very best,
+					<br />
+					the heavens would have to hide the rest,
+					<br />
+					‘cause your beauty would shame them all by far.
 				</p>
 				<p style={{ fontStyle: "italic" }}>
-					{/* IF I COULD SEND THE MOST PRECIOUS GIFT, THE WORLD WOULD THINK THAT YOU WERE A MYTH, ‘CAUSE I’D SEND ANGELIC
-					BLESSING, STANDING GUARD WHILE YOU’RE RESTING, SHARING WITH YOU THEIR ETERNAL BLISS. */}
-					If I could send the most precious gift, the world would think that you were a myth, ‘cause I’d send angelic
-					blessing, standing guard while you’re resting, sharing with you their eternal bliss.
+					If I could send the most precious gift, the world would think that you were a myth,
+					<br />
+					‘cause I’d send angelic blessing, standing guard while you’re resting,
+					<br />
+					sharing with you their eternal bliss.
 				</p>
 				<p style={{ fontStyle: "italic" }}>
-					{/* IF I WERE TO ASK FOR JUST ONE THING MORE, IT WOULD HAVE TO BE THAT THERE WAS A DOOR, THAT ALLOWED US TO SOAR,
-					PAST THIS MORTAL TOUR, AND BE UNITED FOREVER AND EVERMORE. */}
-					If I were to ask for just one thing more, it would have to be that there was a door, that allowed us to soar,
-					past this mortal tour, and be united forever and evermore.
+					If I were to ask for just one thing more,
+					<br />
+					it would have to be that there was a door, that allowed us to soar,
+					<br />
+					past this mortal tour,
+					<br />
+					and be united forever and evermore.
 				</p>
 				<p style={{ fontStyle: "italic" }}>
-					{/* IF I WROTE A POEM THAT CAPTURED LOVE, I’D WRITE IT ON THE WINGS OF A DOVE, ‘CAUSE THERE’S NOTHING ON EARTH,
-					THAT’S EVER GIVEN BIRTH, WORTHY TO DELIVER THE WORDS ABOVE. */}
-					If I wrote a poem that captured love, I’d write it on the wings of a dove, ‘cause there’s nothing on earth,
-					that’s ever given birth, worthy to deliver the words above.
+					If I wrote a poem that captured love, I’d write it on the wings of a dove,
+					<br />
+					‘cause there’s nothing on earth,
+					<br />
+					that’s ever given birth,
+					<br />
+					worthy to deliver the words above.
 				</p>
 				<p style={{ textAlign: "center" }}>-Michael Jones</p>
 			</main>
