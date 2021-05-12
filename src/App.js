@@ -85,11 +85,11 @@ function App() {
 					<a
 						rel="stylesheet"
 						href="
-                  https://goo.gl/maps/39ZZLH6oaEKnfWQy8"
+						https://goo.gl/maps/RWCdgHpyj5rQATzv5"
 					>
-						Canyon View Park
+						The Tuttle residence
 					</a>{" "}
-					in Provo Canyon
+					in Orem.
 				</p>
 				<p>
 					Flowers for the gathering on Saturday can be sent to the Morgan residence at 579 W 920 N, Orem, Utah 84057.
