@@ -85,7 +85,7 @@ function App() {
 				</p>
 				<p>Time: 3:30-5:00 pm, Saturday May 15th, 2021.</p>
 				<p>
-					Location:{" "}
+					Location: <br />
 					<a
 						rel="stylesheet"
 						href="
@@ -93,7 +93,10 @@ function App() {
 					>
 						The Tuttle residence
 					</a>{" "}
-					in Orem.
+					<br />
+					422 E 1450 N
+					<br />
+					Orem, UT 84097
 				</p>
 				<p>
 					Flowers for the gathering on Saturday can be sent to the Morgan residence at 579 W 920 N, Orem, Utah 84057.
