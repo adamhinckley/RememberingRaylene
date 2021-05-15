@@ -173,6 +173,7 @@ function App() {
 					/>
 				</g>
 			</svg>
+			<h2 style={{ textAlign: "center" }}>If I Could</h2>
 			<main>
 				<p style={{ fontStyle: "italic" }}>
 					If I could capture the beauty of a star, I’d search for the most precious of them all,
@@ -208,9 +209,9 @@ function App() {
 					<br />
 					worthy to deliver the words above.
 				</p>
-				<p style={{ textAlign: "center" }}>-Michael Jones</p>
+				<p style={{ textAlign: "center" }}>-Michael Jones, husband</p>
 			</main>
-			{/* <svg
+			<svg
 				version="1.1"
 				id="Layer_1"
 				xmlns="http://www.w3.org/2000/svg"
@@ -273,7 +274,45 @@ function App() {
 					/>
 				</g>
 			</svg>
-			<p style={{ textAlign: "center" }}>~Sherri's poem here~</p> */}
+			<h2 style={{ textAlign: "center" }}>Raylene</h2>
+			<main>
+				<p>
+					Her heart took flight and in her eyes
+					<br /> Pure joy washed through—what great surprise!!!
+					<br />
+					<br />
+					With Happiness she never knew
+					<br /> that seemed reserved for just a few <br /> <br /> Such longing strung across the years
+					<br /> as <span style={{ fontStyle: "italic" }}>True Love</span> wiped away her tears! <br /> <br />
+					Yet looking back at moments rare, <br />
+					her happiness was surely there <br /> <br /> New babies filled her heart with joy, <br />
+					Both daughters and each baby boy. <br /> <br /> She loved to make their favorite foods,
+					<br /> to watch them smile or lift their moods. <br /> <br /> At times we may not understand <br />
+					the timing of God’s Master Plan
+					<br />
+					<br />
+					She never wavered, this we know <br /> Our life on earth helps us to grow
+					<br /> <br />
+					Raylene is Love and Joy and Light <br /> Such gentle caring strength and might! <br /> <br /> She shall live
+					on eternally, <br />
+					Beside us she will always be!
+					<br /> <br />
+					She sacrificed for those she loves <br /> Her happy singing often was...
+					<br /> <br />
+					As soothing as her smiling eyes...
+					<br />
+					Her family—life’s greatest prize
+					<br />
+					<br />
+					Her heart and soul will not let go <br /> Of those she loves... they need to know...
+					<br /> <br />
+					That she’ll remain a song away, <br />
+					Through darkest night and brightest day
+					<br /> <br />
+					Until the time when once again <br /> We’ll live in joy that never ends!
+				</p>
+				<p style={{ textAlign: "center" }}>-Sherrie Natrass, sister in law</p>
+			</main>
 		</div>
 	);
 }
